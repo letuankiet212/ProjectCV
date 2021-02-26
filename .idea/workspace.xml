@@ -106,6 +106,7 @@
       <change afterPath="$PROJECT_DIR$/../LaraVue/tests/Unit/ExampleTest.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LaraVue/vendor.rar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LaraVue/webpack.mix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/projectcv.iml" afterDir="false" />
@@ -119,6 +120,7 @@
       <change afterPath="$PROJECT_DIR$/app/Models/Portfolio.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/database/migrations/2021_02_23_023851_create_infomation_table.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/database/migrations/2021_02_24_021604_create_portfolio_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/ - Copy.htaccess" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/backend/app-assets/css-rtl/bootstrap-extended.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/backend/app-assets/css-rtl/bootstrap-extended.min.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/backend/app-assets/css-rtl/bootstrap.css" afterDir="false" />
@@ -1848,7 +1850,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613960506470</updated>
-      <workItem from="1613960507706" duration="86029000" />
+      <workItem from="1613960507706" duration="88632000" />
     </task>
     <servers />
   </component>
@@ -1879,14 +1881,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="453" y="150" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1614224420854" />
+    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1614330790124">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614330790124" />
     <state x="616" y="235" key="run.anything.popup" timestamp="1614069755803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="235" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614069755803" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1614330761101">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1614330909022">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614330761101" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614330909022" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
