@@ -1639,7 +1639,7 @@
       <change afterPath="$PROJECT_DIR$/resources/views/backend/common/script.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/resources/views/backend/common/style.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/resources/views/backend/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor.zip" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../calculator/.gitignore" beforeDir="false" />
@@ -1848,7 +1848,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613960506470</updated>
-      <workItem from="1613960507706" duration="85719000" />
+      <workItem from="1613960507706" duration="86029000" />
     </task>
     <servers />
   </component>
@@ -1883,10 +1883,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="235" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614069755803" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1614243618043">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1614330761101">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614243618043" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614330761101" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
