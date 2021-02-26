@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[347],{347:(e,n,t)=>{"use strict";t.r(n),t.d(n,{default:()=>s});const l={name:"index"};const s=(0,t(900).Z)(l,(function(){var e=this,n=e.$createElement;return(e._self._c||n)("div",[e._v("\n    đây là trang about\n")])}),[],!1,null,"69a6d85d",null).exports}}]);
